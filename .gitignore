@@ -1,0 +1,9 @@
+# exclude everything
+public/Drop-down_html_files/*
+public/Video_Frame_Files/*
+public/videos/*
+
+# exception to the rule
+!public/Drop-down_html_files/.gitkeep 
+!public/Video_Frame_Files/.gitkeep 
+!public/videos/.gitkeep 
